@@ -1,20 +1,16 @@
-<!-- Cyber Security + AI Developer Themed GitHub Profile -->
-<h1 align="center">🚀👾 Hi, I’m Vxmpie 👨‍💻</h1>
-<h3 align="center">Cyber Security Enthusiast | AI Developer | Ethical Hacker</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/H1dxi8C7oD0PC/giphy.gif" width="200">
-</p>
+<h1 align="center">👾 Hi, I’m Vxmpie 👨‍💻</h1>
+<h3 align="center">Cyber Security Enthusiast | Web Developer | Ethical Hacker | CTF Player</h3>
 
 ---
 
 ### 🧠 About Me:
-- 🕵️‍♂️ Passionate about **Cyber Security, AI, and Web Development**  
-- 🎯 Specialized in **Web Penetration Testing, Reverse Engineering, and OSINT**  
-- 🤖 Exploring **AI for Security, Deep Learning, and LLMs**  
-- 🚀 Building innovative **AI-driven security tools & automation**  
-- 🎮 Active CTF Player on [Hack The Box](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)  
-- 📫 Reach me at: **your.email@example.com**  
+- 🕵️‍♂️ Passionate about: **Web Development, Cyber Security, AI, Ethical Hacking, and CTF Challenges**  
+- 🎯 Always learning: **Penetration Testing, Malware Analysis, and OSINT**  
+- 🤖 Exploring: **AI for Security, Deep Learning, and LLMs**
+- 🛠️ Experienced with: **Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark**  
+- 🚀 Building innovative: **AI-driven security tools & automation**  
+- 🎮 Active CTF Player on: [Hack The Box](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)  
+- 📫 Reach me at: **marple.rblx@gmail.com**  
 
 ---
 
@@ -51,8 +47,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=vxmpie&show_icons=true&theme=radical" height="200" alt="Stats">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxmpie&langs_count=10&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -78,4 +76,3 @@
 
 ---
 
-> "The quieter you become, the more you are able to hear."  
