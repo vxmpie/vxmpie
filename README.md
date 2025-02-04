@@ -68,7 +68,7 @@
 
 ### 🏆 GitHub Achievement:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&margin-w=15" height="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=vxmpie&theme=darkhub&margin-w=15" height="200">
 </p>
 
 ---
