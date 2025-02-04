@@ -1,5 +1,5 @@
 <!-- Cyber Security + AI Developer Themed GitHub Profile -->
-<h1 align="center">🚀👾 Hi, I’m <Vxmpie> 👨‍💻</h1>
+<h1 align="center">🚀👾 Hi, I’m Vxmpie 👨‍💻</h1>
 <h3 align="center">Cyber Security Enthusiast | AI Developer | Ethical Hacker</h3>
 
 <p align="center">
