@@ -1,6 +1,6 @@
 <!-- Cyber Security + AI Developer Themed GitHub Profile -->
-<h1 align="center">🚀👾 Hi, I’m <Your Name> 👨‍💻</h1>
-<h3 align="center">Cyber Security Enthusiast | AI Developer | Web Hacker</h3>
+<h1 align="center">🚀👾 Hi, I’m <Vxmpie> 👨‍💻</h1>
+<h3 align="center">Cyber Security Enthusiast | AI Developer | Ethical Hacker</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/H1dxi8C7oD0PC/giphy.gif" width="200">
