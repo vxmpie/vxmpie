@@ -9,7 +9,7 @@
 - 🤖 Exploring: **AI for Security, Deep Learning, and LLMs**
 - 🛠️ Experienced with: **Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark**  
 - 🚀 Building innovative: **AI-driven security tools & automation**  
-- 🎮 Active CTF Player on: [Hack The Box](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)  
+- 🎮 Active CTF Player on: **[Hack The Box](https://www.hackthebox.com/) and [TryHackMe](https://tryhackme.com/)**
 - 📫 Reach me at: **marple.rblx@gmail.com**  
 
 ---
